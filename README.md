@@ -1,2 +1,3 @@
-# public-discord-bot
-A public discord bot that gets updated regularly.
+# Ticket Bot With HTML Trnascripts
+A public ticket bot with HTML Transcripts.
+
